@@ -38,7 +38,10 @@ npm run lint -- --fix
 ```
 
 ## To submit your solution
-Create a fork of this repo and send the link to your interviewer. 
+
+- Create a public repository in your personal GitHub account
+- Push your solution to your repository
+- Send the repository link to your interviewer
 
 ## Criteria you will be judged on:
 - **Completion of Section 1**
