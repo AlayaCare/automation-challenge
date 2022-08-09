@@ -39,7 +39,7 @@ npm run lint -- --fix
 
 ## To submit your solution
 
-- Create a public repository in your personal GitHub account
+- Create an empty public repository in your personal GitHub account (please do **not** fork this automation-challenge repository)
 - Push your solution to your repository
 - Send the repository link to your interviewer
 
